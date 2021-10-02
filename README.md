@@ -18,6 +18,8 @@ In order to highlight what I have learnt about traditional Machine Learning, thi
 ## Techologies and Techniques
 - Supervisor Machine Learning
 - Python 3.8
+- Sklearn
+- Matplotlib
 
 ## Result:
 <p align="center">
